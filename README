@@ -1,0 +1,9 @@
+python mainsql.py
+or 
+./20140220.sh
+then type your sql query
+
+q to quit
+
+-> error validation 
+-> all processing done
